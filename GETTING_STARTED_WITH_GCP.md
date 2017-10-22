@@ -67,6 +67,8 @@
 
 # Step 6: Firewall & SSH KEY
 
+ [Generate](https://github.com/s3p02/create_ssh_mac_and_linux) an ssh key on your system, copy it to the highlighted area below.
+ 
  Under Firewall, check for HTTP & HTTPS traffic
 
 <kbd>
