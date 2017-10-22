@@ -2,7 +2,10 @@
 
 The First thing you see upon logging into the console of you GCP account is the Dashboard:
 
-![Dashboard](/0_after_creating_instance.png)
+<kbd>
+  <img src="/0_after_creating_instance.png">
+</kbd>
+
 
 ## Step 1: Select App Engine >> VM instances
 
