@@ -31,33 +31,39 @@
 
 ## Step 3: Customize your VM
 
+# Name your instance, pick region us-west1-b as they have GPU's and click customize.
+
+
 <kbd>
   <img src="/3_name_customize.png">
 </kbd>!
 
-# Name your instance, pick region us-west1-b as they have GPU's and click customize.
 
 ## Step 4: Select No. of Cores, Ram, GPU
+
+# Click GPU's
+
 
 <kbd>
   <img src="/4_gpu.png">
 </kbd>
 
-# Click GPU's
+# Select 1 NVIDIA Tesla K40
+
 
 <kbd>
   <img src="/4_1_gpu.png">
 </kbd>
 
-# Select 1 NVIDIA Tesla K40
 
 ## Step 5: Change Operating System & Storage
+
+# Select Ubuntu 14.04 and 100GB Standard Persistant Disk
 
 <kbd>
   <img src="/6_os_100_gb.png">
 </kbd>
 
-# Select Ubuntu 14.04 and 100GB Standard Persistant Disk
 
 
 
