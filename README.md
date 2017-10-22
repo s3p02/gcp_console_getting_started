@@ -1,4 +1,4 @@
-## Getting started once you've ctreated a free GCP account
+## Getting started once you've created a free GCP account
 
 
 
@@ -25,27 +25,37 @@ The First thing you see upon logging into the console of you GCP account is the 
 
 ## Step 2: Select Create under VM Instances
 
-![CREATE INSATNCE](/2_create_instance.png)
+<kbd>
+  <img src="/2_create_instance.png">
+</kbd>
 
 # Customize your VM
 
-![Name Instance & Pick Zone](/3_name_customize.png)
+<kbd>
+  <img src="/3_name_customize.png">
+</kbd>!
 
 Name your instance, pick region us-west1-b as they have GPU's and click customize.
 
 # Select No. of Cores, Ram, GPU
 
-![customize for gpu](/4_gpu.png)
+<kbd>
+  <img src="/4_gpu.png">
+</kbd>
 
 Click GPU's
 
-![select gpu](/4_1_gpu.png)
+<kbd>
+  <img src="/4_1_gpu.png">
+</kbd>
 
 Select 1 NVIDIA Tesla K40
 
 # Change Operating System & Storage
 
-![OS & Storage](/6_os_100_gb.png)
+<kbd>
+  <img src="/6_os_100_gb.png">
+</kbd>
 
 Select Ubuntu 14.04 and 100GB Standard Persistant Disk
 
