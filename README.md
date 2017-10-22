@@ -48,7 +48,7 @@
   <img src="/4_gpu.png">
 </kbd>
 
-# Select 1 NVIDIA Tesla K40
+# Select 1 NVIDIA Tesla K80
 
 
 <kbd>
@@ -65,5 +65,17 @@
 </kbd>
 
 
+## Step 6: Firewall & SSH KEY
 
+# Under Firewall, check for HTTP & HTTPS traffic
+
+<kbd>
+  <img src="/7_firewall_ssh_key.png">
+</kbd>
+
+# Enter the SSH Key Generated
+
+# Click Create to create an instance
+
+You are most likely going to encounter an error after clicking create. This is primarily because, GPU's are not allotted directly with a free account. A Quota request is required for GPU.
 
