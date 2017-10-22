@@ -2,7 +2,7 @@
 
 
 
-The First thing you see upon logging into the console of you GCP account is the Dashboard:
+# The First thing you see upon logging into the console of you GCP account is the Dashboard:
 
 
 
@@ -29,35 +29,35 @@ The First thing you see upon logging into the console of you GCP account is the 
   <img src="/2_create_instance.png">
 </kbd>
 
-# Customize your VM
+## Step 3: Customize your VM
 
 <kbd>
   <img src="/3_name_customize.png">
 </kbd>!
 
-Name your instance, pick region us-west1-b as they have GPU's and click customize.
+# Name your instance, pick region us-west1-b as they have GPU's and click customize.
 
-# Select No. of Cores, Ram, GPU
+## Step 4: Select No. of Cores, Ram, GPU
 
 <kbd>
   <img src="/4_gpu.png">
 </kbd>
 
-Click GPU's
+# Click GPU's
 
 <kbd>
   <img src="/4_1_gpu.png">
 </kbd>
 
-Select 1 NVIDIA Tesla K40
+# Select 1 NVIDIA Tesla K40
 
-# Change Operating System & Storage
+## Step 5: Change Operating System & Storage
 
 <kbd>
   <img src="/6_os_100_gb.png">
 </kbd>
 
-Select Ubuntu 14.04 and 100GB Standard Persistant Disk
+# Select Ubuntu 14.04 and 100GB Standard Persistant Disk
 
 
 
