@@ -165,7 +165,7 @@ Once Your Instance Launches successfully, you will see a green check mark beside
 
 # Start/Stop Instance
 
-You will be charged, immediately once you run out of free credit. It's highly recommended that one stop's the VM when it's not being utilized, as the charge per hour is ~$1. Approzimately you can get less than 300 hours with the free credit to play around with a GPU VM on GCP.
+You will be charged, immediately once you run out of free credit. It's highly recommended that one stop's the VM when it's not being utilized, as the charge per hour is ~$1. Approx. you can get less than 300 hours with the free credit to play around with a GPU VM on GCP.
 
 <kbd>
   <img src="/23_stop_instance.png">
