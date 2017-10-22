@@ -89,31 +89,34 @@ You are most likely going to encounter an error after clicking create. This is p
   <img src="/9_Request_Increase.png">
 </kbd>
 
-Upon Selecting 'REQUEST INCREASE', you are brought to the Quota's page, Click on 'Upgrade account'
+Upon Selecting 'REQUEST INCREASE', you are brought to the Quota's page, Click on 'Upgrade account'.
 
 <kbd>
   <img src="/10_quotas.png">
 </kbd>
 
-Select Upgrade
+Select 'Upgrade'.
 
 <kbd>
   <img src="/11_upgrade.png">
 </kbd>
 
-Under 'All regions' drop down option, select 'None'
+Under 'All regions' drop down option, select 'None'.
 
 <kbd>
   <img src="/12_region_none.png">
 </kbd>
 
-Scroll down to select 'us-west1'
+
+Scroll down to select 'us-west1'.
+
 <kbd>
   <img src="/13_west_1.png">
 </kbd>
 
 
 Now, Scroll down to the bottom of the Quotas page and select 'Google Compute Engine API - NVIDIA K80 GPUs' and then click on 'EDIT QUOTAS'
+
 <kbd>
   <img src="/14_k80_edit_quota.png">
 </kbd>
@@ -131,21 +134,25 @@ For the Request to be Approved, 'Change to 1' and Justify your request with a re
 </kbd>
 
 Click Submit Request
+
 <kbd>
   <img src="/17_submit_request.png">
 </kbd>
 
 Once your request is complete, you can close the pop-up.
+
 <kbd>
   <img src="/18_complete.png">
 </kbd>
 
 You will get an email from Google Cloud Support, with your case number.
+
 <kbd>
   <img src="/19_Response_for_quota_increase.png">
 </kbd>
 
 Usually the turn around time is fast, I got mine in one minute.
+
 <kbd>
   <img src="/20_turn_around_time.png">
 </kbd>
@@ -159,6 +166,7 @@ You can re-launch your instance from the notifications icon at the right hand co
 </kbd>
 
 Once Your Instance Launches successfully, you will see a green check mark besides your instance's name, you will get an External IP for your instance.
+
 <kbd>
   <img src="/22_instance_complete.png">
 </kbd>
