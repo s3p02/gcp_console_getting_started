@@ -1,2 +1,1 @@
-# gcp_console_getting_started
-Getting started
+## Getting started
