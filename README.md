@@ -12,8 +12,27 @@ The First thing you see upon logging into the console of you GCP account is the 
 
 ![CREATE INSATNCE](/2_create_instance.png)
 
-# Name Your Instance and Select Zone
+# Customize your VM
 
 ![Name Instance & Pick Zone](/3_name_customize.png)
+
+Name your instance, pick region us-west1-b as they have GPU's and click customize.
+
+# Select No. of Cores, Ram, GPU
+
+![customize for gpu](/4_gpu.png)
+
+Click GPU's
+
+![select gpu](/4_1_gpu.png)
+
+Select 1 NVIDIA Tesla K40
+
+# Change Operating System & Storage
+
+![OS & Storage](/6_os_100_gb.png)
+
+Select Ubuntu 14.04 and 100GB Standard Persistant Disk
+
 
 
