@@ -77,7 +77,7 @@
 
  # Step 7: Create Instance
 
- Enter the SSH Key Generated, and click create to create an instance
+ Enter the SSH Key [Generated](https://github.com/s3p02/create_ssh_mac_and_linux/blob/master/README.md), and click create to create an instance
 
 You are most likely going to encounter an error after clicking create. This is primarily because, GPU's are not allotted directly with a free account. A Quota request is required for GPU.
 
