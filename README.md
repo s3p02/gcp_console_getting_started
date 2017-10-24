@@ -14,7 +14,7 @@
 
 
 
-# Step 1: Select App Engine >> VM instances
+# Step 1: Select Compute Engine >> VM instances
 
 
 <kbd>
